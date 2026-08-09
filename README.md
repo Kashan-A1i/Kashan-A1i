@@ -28,11 +28,30 @@ I care about projects that outlast the semester they were built in: real users, 
 
 ### Tech I Work With
 
-**Languages:** Python · Java · C++ · C · JavaScript · SQL
-**Web:** React · Next.js · Node.js · Vue · Django · HTML/CSS · Tailwind · Supabase
-**AI/ML:** PyTorch · TensorFlow · Reinforcement Learning
-**Tools:** Git · Linux · Docker
-**Creative/Design:** Blender (3D Modeling & Animation) · Adobe Photoshop · Adobe After Effects
+**Languages**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,html,css,sql" />
+</p>
+
+**Web & Backend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nodejs,django,tailwind,supabase" />
+</p>
+
+**AI/ML**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+</p>
+
+**Tools**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,docker" />
+</p>
+
+**Creative/Design**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=blender,ps,ae" />
+</p>
 
 ### A Bit More
 
