@@ -1,65 +1,70 @@
-<h1 align="center">Hi, I'm Kashan Ali 👋</h1>
+
+<h1 align="center">Kashan Ali</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+software+for+Mastuj+%26+Chitral;Full-Stack+Developer+%7C+CS+Student+at+NUST;Preserving+Culture+Through+Code;React+%C2%B7+Next.js+%C2%B7+Supabase+%C2%B7+Python" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=CS+Undergraduate+at+NUST+%7C+Full-Stack+%26+AI+Engineer;Research+Contributor+%E2%80%94+Multi-Agent+LLM+Systems;3D+Computer+Vision+%C2%B7+Backend+Architecture+%C2%B7+Cultural+Tech;Python+%C2%B7+TypeScript+%C2%B7+Django+%C2%B7+Next.js+%C2%B7+PyTorch" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  📍 Islamabad, Pakistan (originally from Mastuj, Chitral) &nbsp;|&nbsp;
-  ✉️ kashanali.akhsss@gmail.com
+  📍 Islamabad, Pakistan &nbsp;|&nbsp;
+  ✉️ <a href="mailto:kashanali.akhsss@gmail.com">kashanali.akhsss@gmail.com</a>
+  <!-- Add your Portfolio and LinkedIn links below -->
+  <!-- &nbsp;|&nbsp; 🌐 <a href="https://your-portfolio-url">Portfolio</a> &nbsp;|&nbsp; 💼 <a href="https://your-linkedin-url">LinkedIn</a> -->
 </p>
 
 ---
 
 ### About Me
 
-I'm a second-year Computer Science student at NUST, originally from Mastuj, a small town in Chitral in northern Pakistan. Coming from a place that rarely shows up online shaped how I think about software — I build things to give places, cultures, and languages that don't have much digital presence a way to exist on the internet.
+Computer Science undergraduate at the **National University of Sciences and Technology (NUST)** (Class of 2029) focused on **full-stack systems engineering**, **3D computer vision**, and **multi-agent LLM research**. 
 
-I care about projects that outlast the semester they were built in: real users, real content, real impact — not just a portfolio piece.
-
-### What I'm Devoted To
-
-- 🏔️ **Documenting home** — building platforms that preserve and share the culture, language, and stories of Chitral and Mastuj for people who'd otherwise never encounter them
-- 🎵 **Cultural preservation through tech** — using full-stack tools to archive things that are usually lost to time, like traditional music
-- 🌍 **Multilingual, accessible design** — building for Urdu, English, and Khowar speakers alike, not just English-first audiences
-- 🧠 **Learning in public** — currently deepening my grip on AI/ML, algorithms, and systems-level CS fundamentals alongside shipping product
-
-### Tech I Work With
-
-**Languages**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,html,css,sql" />
-</p>
-
-**Web & Backend**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nodejs,django,tailwind,supabase" />
-</p>
-
-**AI/ML**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-</p>
-
-**Tools**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,docker" />
-</p>
-
-**Creative/Design**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=blender,ps,ae" />
-</p>
-
-### A Bit More
-
-- 🎓 Aga Khan Undergraduate Scholar
-- 🏆 Provincial High Achiever, Pre-Engineering
-- 🛠️ Former President, Science and Arts Club — led teams to build things like an Arduino-controlled flood-mitigation bridge
-- 🧭 Long-time Boy Scout, still active in community organizing and event coordination
+Originally from Mastuj, Chitral, I build production-grade platforms and pipelines that preserve underrepresented languages, literature, and heritage—combining backend architecture, OCR automation, and photogrammetry with real-world impact.
 
 ---
 
-<p align="center"><i>Projects below 👇</i></p>
+### Research & Current Focus
+
+- **Multi-Agent LLM Systems (Agile Publishing)** — Research Contributor investigating coordination failures, collaborative reasoning, shared context mechanisms, and standardized inter-agent communication protocols (*paper in preparation*).
+- **3D Computer Vision & Photogrammetry** — Engineering end-to-end 3D reconstruction pipelines using OpenCV, COLMAP, and 3D Gaussian Splatting for virtual heritage preservation (**Posheeda Virsa**).
+- **Backend & Hypermedia Architecture** — Designing low-latency, multilingual archival systems with automated OCR ingestion pipelines (**Qasida**, **Mastuj Chitral**, **Bashonu** — collectively serving 4,500+ visitors).
+
+---
+
+### Technical Stack
+
+**Languages**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,ts,js,html,css" />
+</p>
+
+**Web, Backend & Databases**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=django,react,nextjs,nodejs,vue,tailwind,postgres,supabase" />
+</p>
+
+**AI, ML & Computer Vision**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+</p>
+
+**Infrastructure, Tools & 3D**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,blender" />
+</p>
+
+> **Core Concepts & Specialized Tools:** 3D Gaussian Splatting, COLMAP, Photogrammetry, HTMX, REST APIs, Reinforcement Learning, Data Structures & Algorithms.
+
+---
+
+### Leadership & Recognition
+
+- **Executive, Technical Team — Piston Cup (2026):** Oversee pre-race vehicle technical scrutineering, engine specs, roll cage integrity, and safety compliance.
+- **1st Place, 3D Modeling — GE Jubilee Arts Festival (2025):** Regional winner for technical excellence in 3D asset creation and spatial visualization.
+- **Provincial High Achiever (AKUEB / AKES,P):** 1st position in Pre-Engineering board examinations; recipient of the Jenabai Award & Bridge Scholarship.
+- **Youth Leadership & Community:** Selected participant for BHYC & Rang Cultural Expedition (AKDN); Organizing Committee Member for PYC-MUN (500+ attendees); active Ismaili Volunteer since 2015.
+
+---
+
+<p align="center"><i>Featured repositories below 👇</i></p>
