@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 136" width="900" height="136" role="img" aria-label="BASHONU — Cultural Music Preservation">
+  <style>
+    .serif-display {
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      fill: #1c1d1f;
+    }
+    .serif-italic {
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      font-style: italic;
+      fill: #52555a;
+    }
+    .serif-paper {
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      font-style: italic;
+      fill: #1c1d1f;
+    }
+    .section-heading {
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      font-size: 12px;
+      font-weight: bold;
+      letter-spacing: 1.4px;
+      fill: #1c1d1f;
+    }
+    .mono-index {
+      font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+      font-size: 10.5px;
+      letter-spacing: 0.8px;
+      fill: #52555a;
+    }
+    .mono-pill {
+      font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+      font-size: 11px;
+      fill: #1c1d1f;
+    }
+    .sans-body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+      font-size: 12.2px;
+      fill: #52555a;
+    }
+    .sans-strong {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+      font-size: 12.2px;
+      font-weight: 600;
+      fill: #1c1d1f;
+    }
+    @keyframes calmPulse {
+      0%, 100% { opacity: 0.95; }
+      50% { opacity: 0.45; }
+    }
+    .status-live {
+      animation: calmPulse 4.2s ease-in-out infinite;
+    }
+  </style>
+  <!-- Stone-white monograph surface -->
+  <rect width="900" height="136" fill="#f7f6f2"/>
+
+  <!-- Horizontal Catalog Card -->
+  <rect x="28" y="4" width="844" height="124" rx="6" fill="#fbfaf7" stroke="#d8d5ce" stroke-width="1"/>
+
+  <!-- Zone 1 (Left ~30%): Title, Subtitle & Metric -->
+  <text x="48" y="32" class="mono-index" font-size="10">SPECIMEN 02.4</text>
+  <text x="48" y="57" class="serif-display" font-size="15.5" font-weight="bold" letter-spacing="0.6">BASHONU</text>
+  <text x="48" y="78" class="serif-italic" font-size="12.8">Cultural Music Preservation</text>
+  <circle cx="51" cy="103.5" r="2.2" fill="#7a9181" class="status-live"/>
+  <text x="59" y="107" class="mono-index" font-size="10.2">3,000+ Visitors · Real-Time</text>
+
+  <!-- Hairline Zone Dividers -->
+  <line x1="276.5" y1="22" x2="276.5" y2="110" stroke="#e5e2dc" stroke-width="1"/>
+  <line x1="708.5" y1="22" x2="708.5" y2="110" stroke="#e5e2dc" stroke-width="1"/>
+
+  <!-- Zone 2 (Middle ~50%): Monochrome Outline Pills & Summary -->
+    <rect x="296" y="28" width="53" height="22" rx="11" fill="#fbfaf7" stroke="#2c2e33" stroke-width="1"/>
+    <text x="322.5" y="42.8" text-anchor="middle" class="mono-pill">React</text>
+    <rect x="355" y="28" width="86" height="22" rx="11" fill="#fbfaf7" stroke="#2c2e33" stroke-width="1"/>
+    <text x="398.0" y="42.8" text-anchor="middle" class="mono-pill">JavaScript</text>
+    <rect x="447" y="28" width="73" height="22" rx="11" fill="#fbfaf7" stroke="#2c2e33" stroke-width="1"/>
+    <text x="483.5" y="42.8" text-anchor="middle" class="mono-pill">Supabase</text>
+  <text x="296" y="74.0" class="sans-body" font-size="12">Full-stack regional song archive serving 3,000+ visitors</text>
+  <text x="296" y="91.5" class="sans-body" font-size="12">with real-time updates and clean UI design.</text>
+
+  <!-- Zone 3 (Right ~20%): Fine-Line Monochrome Technical Illustration -->
+  <g transform="translate(790, 66.0)" stroke="#2c2e33" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="-50" y="-31" width="100" height="46" rx="3" stroke-width="1.15" fill="#fbfaf7"/>
+    <line x1="-50" y1="3" x2="50" y2="3" stroke-width="0.85"/>
+    <circle cx="-27" cy="-14" r="10.5" stroke-width="1"/>
+    <circle cx="-27" cy="-14" r="3" stroke-width="0.85"/>
+    <line x1="-27" y1="-24.5" x2="-27" y2="-19" stroke-width="0.75"/>
+    <line x1="-35.5" y1="-8.5" x2="-31" y2="-11.5" stroke-width="0.75"/>
+    <line x1="-18.5" y1="-8.5" x2="-23" y2="-11.5" stroke-width="0.75"/>
+    <circle cx="3" cy="-14" r="10.5" stroke-width="1"/>
+    <circle cx="3" cy="-14" r="3" stroke-width="0.85"/>
+    <line x1="3" y1="-24.5" x2="3" y2="-19" stroke-width="0.75"/>
+    <line x1="-5.5" y1="-8.5" x2="-1" y2="-11.5" stroke-width="0.75"/>
+    <line x1="11.5" y1="-8.5" x2="7" y2="-11.5" stroke-width="0.75"/>
+    <rect x="21" y="-24" width="22" height="11" rx="1.5" stroke-width="0.85"/>
+    <line x1="32" y1="-13" x2="37" y2="-21" stroke-width="0.9"/>
+    <circle cx="32" cy="-6" r="4" stroke-width="0.9"/>
+    <line x1="32" y1="-6" x2="34.5" y2="-8.5" stroke-width="0.85"/>
+    <rect x="-42" y="6.5" width="10" height="5" rx="1" stroke-width="0.8"/>
+    <rect x="-29" y="6.5" width="10" height="5" rx="1" stroke-width="0.8"/>
+    <rect x="-16" y="6.5" width="10" height="5" rx="1" stroke-width="0.8"/>
+    <rect x="-3" y="6.5" width="10" height="5" rx="1" stroke-width="0.8"/>
+    <line x1="18" y1="9" x2="42" y2="9" stroke-width="0.85"/>
+    <rect x="28" y="6.8" width="4" height="4.4" fill="#fbfaf7" stroke-width="0.85"/>
+    <line x1="-48" y1="27" x2="48" y2="27" stroke="#d8d5ce" stroke-width="0.8"/>
+    <path d="M -42,27 L -36,27 L -33,23 L -29,31 L -25,20 L -21,34 L -17,22 L -13,31 L -9,25 L -5,29 L 0,19 L 4,35 L 8,21 L 12,32 L 16,24 L 20,30 L 24,25 L 28,28 L 33,26 L 37,27 L 42,27" stroke-width="0.95"/>
+  </g>
+</svg>

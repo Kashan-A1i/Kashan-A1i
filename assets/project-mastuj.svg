@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 132" width="900" height="132" role="img" aria-label="MASTUJ CHITRAL — Digital Hometown Platform">
+  <style>
+    .serif-display {
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      fill: #1c1d1f;
+    }
+    .serif-italic {
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      font-style: italic;
+      fill: #52555a;
+    }
+    .serif-paper {
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      font-style: italic;
+      fill: #1c1d1f;
+    }
+    .section-heading {
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      font-size: 12px;
+      font-weight: bold;
+      letter-spacing: 1.4px;
+      fill: #1c1d1f;
+    }
+    .mono-index {
+      font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+      font-size: 10.5px;
+      letter-spacing: 0.8px;
+      fill: #52555a;
+    }
+    .mono-pill {
+      font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+      font-size: 11px;
+      fill: #1c1d1f;
+    }
+    .sans-body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+      font-size: 12.2px;
+      fill: #52555a;
+    }
+    .sans-strong {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+      font-size: 12.2px;
+      font-weight: 600;
+      fill: #1c1d1f;
+    }
+    @keyframes calmPulse {
+      0%, 100% { opacity: 0.95; }
+      50% { opacity: 0.45; }
+    }
+    .status-live {
+      animation: calmPulse 4.2s ease-in-out infinite;
+    }
+  </style>
+  <!-- Stone-white monograph surface -->
+  <rect width="900" height="132" fill="#f7f6f2"/>
+
+  <!-- Horizontal Catalog Card -->
+  <rect x="28" y="4" width="844" height="124" rx="6" fill="#fbfaf7" stroke="#d8d5ce" stroke-width="1"/>
+
+  <!-- Zone 1 (Left ~30%): Title, Subtitle & Metric -->
+  <text x="48" y="32" class="mono-index" font-size="10">SPECIMEN 02.3</text>
+  <text x="48" y="57" class="serif-display" font-size="15.5" font-weight="bold" letter-spacing="0.6">MASTUJ CHITRAL</text>
+  <text x="48" y="78" class="serif-italic" font-size="12.8">Digital Hometown Platform</text>
+  <circle cx="51" cy="103.5" r="2.2" fill="#7a9181" class="status-live"/>
+  <text x="59" y="107" class="mono-index" font-size="10.2">1,500+ Visitors (First 3 Mos)</text>
+
+  <!-- Hairline Zone Dividers -->
+  <line x1="276.5" y1="22" x2="276.5" y2="110" stroke="#e5e2dc" stroke-width="1"/>
+  <line x1="708.5" y1="22" x2="708.5" y2="110" stroke="#e5e2dc" stroke-width="1"/>
+
+  <!-- Zone 2 (Middle ~50%): Monochrome Outline Pills & Summary -->
+    <rect x="296" y="28" width="67" height="22" rx="11" fill="#fbfaf7" stroke="#2c2e33" stroke-width="1"/>
+    <text x="329.5" y="42.8" text-anchor="middle" class="mono-pill">Next.js</text>
+    <rect x="369" y="28" width="53" height="22" rx="11" fill="#fbfaf7" stroke="#2c2e33" stroke-width="1"/>
+    <text x="395.5" y="42.8" text-anchor="middle" class="mono-pill">React</text>
+    <rect x="428" y="28" width="73" height="22" rx="11" fill="#fbfaf7" stroke="#2c2e33" stroke-width="1"/>
+    <text x="464.5" y="42.8" text-anchor="middle" class="mono-pill">Supabase</text>
+    <rect x="507" y="28" width="100" height="22" rx="11" fill="#fbfaf7" stroke="#2c2e33" stroke-width="1"/>
+    <text x="557.0" y="42.8" text-anchor="middle" class="mono-pill">Tailwind CSS</text>
+  <text x="296" y="74.0" class="sans-body" font-size="12">Trilingual (Urdu, English, Khowar) hometown hub with 1,500+</text>
+  <text x="296" y="91.5" class="sans-body" font-size="12">visitors in its first 3 months and a Supabase-authenticated CMS.</text>
+
+  <!-- Zone 3 (Right ~20%): Fine-Line Monochrome Technical Illustration -->
+  <g transform="translate(790, 66.0)" stroke="#2c2e33" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M -52,-28 L -52,-34 L -46,-34" stroke="#d8d5ce" stroke-width="1"/>
+    <path d="M 46,-34 L 52,-34 L 52,-28" stroke="#d8d5ce" stroke-width="1"/>
+    <path d="M -52,28 L -52,34 L -46,34" stroke="#d8d5ce" stroke-width="1"/>
+    <path d="M 46,34 L 52,34 L 52,28" stroke="#d8d5ce" stroke-width="1"/>
+    <path d="M -48,14 L -24,-18 L -10,-6 L 8,-30 L 30,-4 L 48,14" stroke-width="1.2"/>
+    <path d="M 8,-30 L 3,-8 L -8,10 L -18,22" stroke-width="0.9"/>
+    <path d="M -24,-18 L -20,-3 L -32,12" stroke-width="0.85"/>
+    <path d="M 8,-30 L 16,-10 L 11,6" stroke-width="0.8" opacity="0.8"/>
+    <path d="M -50,22 L -28,6 L -6,18 L 20,2 L 50,22" stroke-width="1.05"/>
+    <path d="M 20,2 L 15,15 L 24,24" stroke-width="0.8"/>
+    <path d="M -46,27 Q -15,19 8,26 T 46,26" stroke-width="0.75" opacity="0.75"/>
+    <path d="M -38,32 Q -10,25 14,31 T 42,31" stroke-width="0.7" opacity="0.55"/>
+    <circle cx="8" cy="-35" r="1.2" fill="#2c2e33" stroke="none"/>
+  </g>
+</svg>

@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 248" width="900" height="248" role="img" aria-label="01 Research: Multi-Agent LLM Systems">
+  <style>
+    .serif-display {
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      fill: #1c1d1f;
+    }
+    .serif-italic {
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      font-style: italic;
+      fill: #52555a;
+    }
+    .serif-paper {
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      font-style: italic;
+      fill: #1c1d1f;
+    }
+    .section-heading {
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      font-size: 12px;
+      font-weight: bold;
+      letter-spacing: 1.4px;
+      fill: #1c1d1f;
+    }
+    .mono-index {
+      font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+      font-size: 10.5px;
+      letter-spacing: 0.8px;
+      fill: #52555a;
+    }
+    .mono-pill {
+      font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+      font-size: 11px;
+      fill: #1c1d1f;
+    }
+    .sans-body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+      font-size: 12.2px;
+      fill: #52555a;
+    }
+    .sans-strong {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+      font-size: 12.2px;
+      font-weight: 600;
+      fill: #1c1d1f;
+    }
+    @keyframes calmPulse {
+      0%, 100% { opacity: 0.95; }
+      50% { opacity: 0.45; }
+    }
+    .status-live {
+      animation: calmPulse 4.2s ease-in-out infinite;
+    }
+  </style>
+  <!-- Stone-white monograph surface -->
+  <rect width="900" height="248" fill="#f7f6f2"/>
+
+  <!-- Section Header -->
+  <text x="28" y="26" class="mono-index" font-size="11" fill="#52555a">01</text>
+  <text x="52" y="26" class="section-heading">RESEARCH: MULTI-AGENT LLM SYSTEMS</text>
+  <line x1="364" y1="22" x2="856" y2="22" stroke="#e5e2dc" stroke-width="1"/>
+  <circle cx="869" cy="22" r="2.5" fill="#c87d65"/>
+
+  <!-- Bordered Catalog Box -->
+  <rect x="28" y="40" width="844" height="198" rx="6" fill="#fbfaf7" stroke="#d8d5ce" stroke-width="1"/>
+
+  <!-- Role & Publication Metadata -->
+  <circle cx="51" cy="61.5" r="2.2" fill="#7a9181" class="status-live"/>
+  <text x="61" y="65" class="mono-index">RESEARCH CONTRIBUTOR  ·  AGILE PUBLISHING (OCT 2026 – PRESENT)</text>
+  <text x="852" y="65" text-anchor="end" class="mono-index">PAPER IN PREPARATION</text>
+
+  <!-- Paper Title & Supervisor -->
+  <text x="48" y="90" class="serif-paper" font-size="14.2">“Coordination Failures in LLM-Based Multi-Agent Systems: An Empirical Analysis</text>
+  <text x="48" y="109" class="serif-paper" font-size="14.2">and Protocol Design for Reliable Inter-Agent Communication”</text>
+  <text x="48" y="129" class="sans-body" font-size="11.8">Supervised by <tspan fill="#1c1d1f" font-weight="500">Sir Hassan Mohtashim</tspan></text>
+
+  <!-- Minimalist Multi-Agent Protocol Topology Diagram (Top-Right Chamber) -->
+  <g stroke="#2c2e33" fill="none" stroke-width="1" stroke-linecap="round">
+    <line x1="752" y1="104" x2="794" y2="82" stroke-dasharray="2.5 2.5" opacity="0.7"/>
+    <line x1="794" y1="82" x2="836" y2="104" opacity="0.85"/>
+    <line x1="752" y1="104" x2="836" y2="104" opacity="0.85"/>
+    <line x1="794" y1="82" x2="794" y2="119" stroke="#d8d5ce" stroke-width="0.9"/>
+    <rect x="744" y="119" width="100" height="10" rx="2" fill="#f7f6f2" stroke="#2c2e33" stroke-width="0.9"/>
+    <line x1="752" y1="104" x2="752" y2="119" stroke-width="0.85"/>
+    <line x1="836" y1="104" x2="836" y2="119" stroke-width="0.85"/>
+    <circle cx="794" cy="82" r="5" fill="#fbfaf7" stroke="#2c2e33" stroke-width="1.1"/>
+    <circle cx="794" cy="82" r="1.5" fill="#2c2e33"/>
+    <circle cx="752" cy="104" r="4.5" fill="#fbfaf7" stroke="#2c2e33" stroke-width="1.1"/>
+    <circle cx="836" cy="104" r="4.5" fill="#fbfaf7" stroke="#2c2e33" stroke-width="1.1"/>
+  </g>
+
+  <!-- Horizontal Hairline Divider -->
+  <line x1="48" y1="143.5" x2="852" y2="143.5" stroke="#e5e2dc" stroke-width="1"/>
+
+  <!-- Vertical Column Divider -->
+  <line x1="450.5" y1="154" x2="450.5" y2="225" stroke="#e5e2dc" stroke-width="1"/>
+
+  <!-- Column 1: Focus 1 -->
+  <text x="48" y="164" class="mono-index" font-size="10">01.A</text>
+  <text x="82" y="164" class="serif-display" font-size="13.2" font-weight="bold">Empirical Evaluation &amp; Orchestration</text>
+  <text x="48" y="185" class="sans-body" font-size="12">Multi-agent orchestration workflows, collaborative</text>
+  <text x="48" y="202" class="sans-body" font-size="12">reasoning, debate dynamics, and error propagation</text>
+  <text x="48" y="219" class="sans-body" font-size="12">across LLM agents.</text>
+
+  <!-- Column 2: Focus 2 -->
+  <text x="470" y="164" class="mono-index" font-size="10">01.B</text>
+  <text x="504" y="164" class="serif-display" font-size="13.2" font-weight="bold">Protocol &amp; Context Design</text>
+  <text x="470" y="185" class="sans-body" font-size="12">Memory sharing, shared context mechanisms, and</text>
+  <text x="470" y="202" class="sans-body" font-size="12">standardized inter-agent communication protocols</text>
+  <text x="470" y="219" class="sans-body" font-size="12">to mitigate coordination failures.</text>
+</svg>
